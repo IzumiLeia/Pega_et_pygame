@@ -1,2 +1,3 @@
-# Pega_et_pygame
-criação de game curso sesc santana oficina c
+# Pega_et_py_game
+criação de game curso Sesc Santana oficina c
+
